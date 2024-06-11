@@ -25,7 +25,7 @@ Below is a list of design patterns that have been used in this repository:
 - Creational Patterns
   - Factory 
 - Structural Patterns
-  - ...
+  - Adapter
 - Behavioral Patterns
   - Chain of Responsibility
 
