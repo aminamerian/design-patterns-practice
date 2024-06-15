@@ -29,6 +29,7 @@ Below is a list of design patterns that have been used in this repository:
 - Behavioral Patterns
   - Chain of Responsibility
   - State
+  - Observer
 
 
 ## Contributing
